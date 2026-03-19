@@ -1,0 +1,5 @@
+flask
+akshare
+pandas
+numpy
+requests
